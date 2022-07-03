@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToastedEdges
-- 👀 I’m interested in Web Development and Machine Learning.
-- 🌱 I’m currently learning Java Script (Vannila and React) and Python.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Java Script (Vannila and React).
 - 📫 If needed you can send me an e-mail: jorgem.eberhardc@gmail.com.
 
 <!---
